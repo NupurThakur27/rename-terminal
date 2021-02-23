@@ -15,4 +15,4 @@ function set-title() {
 ```
 >source ~/.bashrc
 
->set-title <whatever-you-want>
+>set-title `whatever-name-you-want`
